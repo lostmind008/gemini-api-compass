@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Gemini API Official Documentation
+    url: https://ai.google.dev/gemini-api/docs
+    about: Check the official Gemini API documentation for general questions
+  - name: Google GenAI Python SDK
+    url: https://github.com/googleapis/python-genai
+    about: Report issues related to the Google GenAI Python SDK here
+  - name: Gemini API Community Support
+    url: https://discord.gg/generativeai
+    about: Join the Generative AI Discord community for help and discussions
