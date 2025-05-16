@@ -1,6 +1,6 @@
 # Gemini API Compass 🧭
 
-[![GitHub stars](https://img.shields.io/github/stars/lostmindai/gemini-api-compass.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lostmindai/gemini-api-compass) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lostmindai008/gemini-api-compass.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lostmindai/gemini-api-compass) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 > **Version-specific documentation, error resolution, and integration patterns for Google's Gemini API ecosystem**
 
